@@ -13,3 +13,4 @@ resource "aws_instance" "webapp" {
     volume_type           = "gp3"
 
   }
+}
